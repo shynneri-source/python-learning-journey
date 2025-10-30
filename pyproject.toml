@@ -1,0 +1,7 @@
+[project]
+name = "python-learning-journey"
+version = "0.1.0"
+description = "A comprehensive learning journey from Python basics to advanced topics including Machine Learning, Artificial Intelligence, Data Science, and Backend Development"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
