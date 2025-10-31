@@ -6,7 +6,7 @@ A comprehensive learning repository for mastering Python from foundational conce
 
 This project is organized into progressive learning stages, starting with Python fundamentals and expanding into specialized domains.
 
-### Current Stage: Python Basics ✅
+### Phase 1: Python Basics ✅ (Completed)
 
 The foundation of your Python learning journey, covering essential concepts and syntax.
 
@@ -23,16 +23,24 @@ The foundation of your Python learning journey, covering essential concepts and 
 
 ---
 
-## 🚀 Future Learning Paths
+### Phase 2: Intermediate Python ✅ (Completed)
 
-### Phase 2: Intermediate Python (Coming Soon)
-- Object-Oriented Programming (OOP)
-- Decorators and Context Managers
-- Modules and Packages
-- File I/O and Data Handling
-- Testing and Debugging
+Building on the fundamentals with more advanced Python concepts and best practices.
 
-### Phase 3: Data Science & Analytics (Planned)
+#### Included Modules:
+
+- **oop_basic.py** - Object-Oriented Programming fundamentals: classes, objects, attributes, and methods
+- **oop_principles.py** - OOP principles: inheritance, polymorphism, encapsulation, and abstraction
+- **Decorators_and_Context_Managers.py** - Function decorators, class decorators, and context managers with `with` statement
+- **Modules_and_Packages.py** - Creating and importing modules, package structure, and namespace management
+- **File_IO_and_Data_Handling.py** - Reading/writing files, working with different file formats (CSV, JSON, etc.)
+- **Testing_and_Debugging.py** - Unit testing with unittest/pytest, debugging techniques, and error handling strategies
+
+---
+
+## 🚀 Current & Future Learning Paths
+
+### Phase 3: Data Science & Analytics ✅ (In Progress)
 - NumPy and Data Manipulation
 - Pandas for Data Analysis
 - Data Visualization (Matplotlib, Seaborn)
@@ -93,12 +101,15 @@ The foundation of your Python learning journey, covering essential concepts and 
 ## 🎯 How to Use This Repository
 
 1. **Start with Python Basics**: Begin with the files in `src/Basic/` directory
-2. **Follow the sequence**: Each module builds upon previous concepts
-3. **Practice**: Modify and experiment with the code examples
-4. **Test your knowledge**: Try creating variations or solving problems
-5. **Track progress**: Check off completed modules as you progress
+2. **Progress to Intermediate**: Move to `src/Intermediate/` after mastering basics
+3. **Follow the sequence**: Each module builds upon previous concepts
+4. **Practice**: Modify and experiment with the code examples
+5. **Test your knowledge**: Try creating variations or solving problems
+6. **Track progress**: Check off completed modules as you progress
 
 ### Recommended Learning Order:
+
+**Phase 1 - Basics:**
 1. Variables_and_Data_Types.py
 2. Basic_Syntax.py
 3. Conditionals.py
@@ -107,6 +118,14 @@ The foundation of your Python learning journey, covering essential concepts and 
 6. Lists_Tuples_Sets_and_Dictionaries.py
 7. Typecasting.py
 8. Exceptions.py
+
+**Phase 2 - Intermediate:**
+9. oop_basic.py
+10. oop_principles.py
+11. Modules_and_Packages.py
+12. Decorators_and_Context_Managers.py
+13. File_IO_and_Data_Handling.py
+14. Testing_and_Debugging.py
 
 ---
 
@@ -138,10 +157,14 @@ This is a personal learning repository, but feel free to fork it and customize f
 
 ## 📝 Notes
 
-This repository is continuously evolving. As you master Python basics, additional modules covering intermediate, advanced, and specialized topics will be added.
+This repository is continuously evolving. As you master Python fundamentals and intermediate concepts, additional modules covering advanced topics and specialized domains will be added.
 
-**Current Status**: Phase 1 - Python Basics ✅
-**Next Milestone**: Phase 2 - Intermediate Python (Expected)
+**Current Status**: Phase 3 - Data Science & Analytics ✅ (In Progress)
+**Completed**: 
+- Phase 1 - Python Basics ✅
+- Phase 2 - Intermediate Python ✅
+
+**Next Milestone**: Phase 4 - Machine Learning (Planned)
 
 ---
 
@@ -160,5 +183,6 @@ As you progress through the learning journey, document your insights and create 
 
 ---
 
-**Last Updated**: October 30, 2025
+**Last Updated**: October 31, 2025
 **Learning Level**: Beginner → Intermediate → Advanced → Specialized
+**Total Modules**: 14 (8 Basic + 6 Intermediate)
