@@ -162,6 +162,7 @@ This is a personal learning repository, but feel free to fork it and customize f
 This repository is continuously evolving. As you master Python fundamentals and intermediate concepts, additional modules covering advanced topics and specialized domains will be added.
 
 **Current Status**: Phase 3 - Data Science & Analytics ✅ (In Progress)
+
 **Completed**: 
 - Phase 1 - Python Basics ✅
 - Phase 2 - Intermediate Python ✅
