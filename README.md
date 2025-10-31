@@ -110,22 +110,22 @@ Building on the fundamentals with more advanced Python concepts and best practic
 ### Recommended Learning Order:
 
 **Phase 1 - Basics:**
-1. Variables_and_Data_Types.py
-2. Basic_Syntax.py
-3. Conditionals.py
-4. loops.py
-5. Functions.py
-6. Lists_Tuples_Sets_and_Dictionaries.py
-7. Typecasting.py
-8. Exceptions.py
+1. `Variables_and_Data_Types.py`
+2. `Basic_Syntax.py`
+3. `Conditionals.py`
+4. `loops.py`
+5. `Functions.py`
+6. `Lists_Tuples_Sets_and_Dictionaries.py`
+7. `Typecasting.py`
+8. `Exceptions.py`
 
 **Phase 2 - Intermediate:**
-9. oop_basic.py
-10. oop_principles.py
-11. Modules_and_Packages.py
-12. Decorators_and_Context_Managers.py
-13. File_IO_and_Data_Handling.py
-14. Testing_and_Debugging.py
+9. `oop_basic.py`
+10. `oop_principles.py`
+11. `Modules_and_Packages.py`
+12. `Decorators_and_Context_Managers.py`
+13. `File_IO_and_Data_Handling.py`
+14. `Testing_and_Debugging.py`
 
 ---
 
