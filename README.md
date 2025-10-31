@@ -110,6 +110,7 @@ Building on the fundamentals with more advanced Python concepts and best practic
 ### Recommended Learning Order:
 
 **Phase 1 - Basics:**
+
 1. `Variables_and_Data_Types.py`
 2. `Basic_Syntax.py`
 3. `Conditionals.py`
@@ -120,6 +121,7 @@ Building on the fundamentals with more advanced Python concepts and best practic
 8. `Exceptions.py`
 
 **Phase 2 - Intermediate:**
+
 9. `oop_basic.py`
 10. `oop_principles.py`
 11. `Modules_and_Packages.py`
