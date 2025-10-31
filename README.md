@@ -81,7 +81,7 @@ Building on the fundamentals with more advanced Python concepts and best practic
 
 1. **Clone or download this repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shynneri-source/python-learning-journey.git
    cd python-learning-journey
    ```
 
